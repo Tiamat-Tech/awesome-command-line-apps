@@ -38,6 +38,7 @@ guidelines:
   written in JavaScript *should* be written in JavaScript.
 - An excessive amount of emoji in an application's output will almost certainly
   disqualify it from inclusion.
+- No blockchain anything.
 
 Thank you for your suggestions!
 
